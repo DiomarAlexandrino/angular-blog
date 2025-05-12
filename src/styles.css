@@ -6,7 +6,9 @@
     background-color: #111111;
     color: white;
     align-items: center;
-  
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+
 }
 
 a{

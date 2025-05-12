@@ -8,14 +8,19 @@ export const dataFake = [
   {
     'id': "2",
     'title': "O medo é o caminho para o lado negro.",
-    'photoCover': "https://i0.wp.com/dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2025/03/star-wars-2-scaled.jpg?resize=950%2C532&ssl=1",
+    'photoCover': "https://lumiere-a.akamaihd.net/v1/images/cg_starwars_skywalkersaga_mobile_20370_7b5e45d9.jpeg?region=0,20,640,360",
     'description': "Esteja consciente de seus pensamentos. Eles traem você"
   },
   {
     'id': "3",
     'title': "Faça ou não faça. A tentativa não existe",
-    'photoCover': "https://i0.wp.com/dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2025/03/star-wars-2-scaled.jpg?resize=950%2C532&ssl=1",
+    'photoCover': "https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_a74tesma6p525bm8jpp4rjn60m/-S897-FWEBP",
     'description': "Treine a si mesmo a deixar partir tudo que teme perder"
     },
-  
+    {
+    'id': "4",
+    'title': "Não deixe seus sentimentos pessoais atrapalharem seu caminho",
+    'photoCover': "https://uploads.jovemnerd.com.br/wp-content/uploads/2024/02/a_ameaca_fantasma__2crnbo.jpg",
+    'description': " Com o tempo aprenderás a confiar em teus instintos, então serás invencível -Obi-Wan kenobi"
+    }
   ]
