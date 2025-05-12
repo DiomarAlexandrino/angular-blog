@@ -1,7 +1,31 @@
-@media screen and (max-width: 768px) {
-    .container_menu-title h1 {
-        font-size: 50px;
+@media screen and (max-width: 750px) {
+    .container_menu-title {
+
+        margin-left: 10%;
        
-    };
+     
+    }
+    .container_menu-title > img {
+        width: 80%;
+        height: auto;
+        min-width: 200px; 
+    }
+    .container_menu-title h2 {
+        font-size: 20px;
+    }
+    .container_menu-title h1 {
+     
+       
+        font-size: 6.0rem;
+        font-weight: 900;
+        line-height: 1.2;
+        padding: 0;
+    }
+    .container_menu-title p {
+        font-size: 22px;
+    }
+    .container_menu-title a {
+        font-size: 22px;
+    }
     
 }

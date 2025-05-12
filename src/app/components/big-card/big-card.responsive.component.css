@@ -1,0 +1,27 @@
+@media screen and (max-width: 750px) {
+    .container_big-card {
+        width: 90%;
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-left: 80px;
+        
+    }
+    .container_big-card > img {
+        width: 80%;
+        height: auto;
+        min-width: 100px; 
+    }
+    .container_big-card h2 {
+        font-size: 20px;
+    }
+    .container_big-card p {
+        font-size: 22px;
+    }
+    .container_big-card a {
+        font-size: 22px;
+    }
+    
+}

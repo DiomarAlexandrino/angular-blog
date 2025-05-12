@@ -1,16 +1,16 @@
 .container_big-card {
-    border: solid 2px #ffffff;
-    width: 400px;
-    height: 500px;
-    margin-right: 20px;
-    margin-left: 20px;
+    width: 500px;
+    height: 600px;
+    margin-left: 200px;
+    right: 80%;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
     background-color: #111111;
     border-radius: 10px;
-    padding: 20px;
+    padding: 90px;
+    
     font-family: 'Segoe UI';
 }
 

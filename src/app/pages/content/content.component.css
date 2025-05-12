@@ -21,15 +21,17 @@
     border-radius: 10px;
 }
 
-.content__description {
 
-    margim-top: 20px;
- 
-}
 
 .content__description > p {
 
     margin-top: 20px;
    color:  rgb(126, 132, 110);
+ 
+}
+.content__description > a {
+
+   align-items: center;
+    right: 50%;
  
 }
